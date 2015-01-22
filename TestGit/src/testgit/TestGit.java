@@ -18,5 +18,6 @@ public class TestGit {
         System.out.println("cynthia");
         System.out.println("jiani");
         System.out.println("message échange ok!");
+        System.out.println(" hello, je vais encore modifier 1 ligne!");
     }
 }
