@@ -17,5 +17,6 @@ public class TestGit {
         // TODO code application logic here
         System.out.println("cynthia");
         System.out.println("jiani");
+        System.out.println("message échange ok!");
     }
 }
